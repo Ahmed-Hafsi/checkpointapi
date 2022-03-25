@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/checkpointapi/static/css/main.c91e1f3f.css",
+    "main.js": "/checkpointapi/static/js/main.b4414b87.js",
+    "static/js/787.09fa76d8.chunk.js": "/checkpointapi/static/js/787.09fa76d8.chunk.js",
+    "index.html": "/checkpointapi/index.html",
+    "main.c91e1f3f.css.map": "/checkpointapi/static/css/main.c91e1f3f.css.map",
+    "main.b4414b87.js.map": "/checkpointapi/static/js/main.b4414b87.js.map",
+    "787.09fa76d8.chunk.js.map": "/checkpointapi/static/js/787.09fa76d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91e1f3f.css",
+    "static/js/main.b4414b87.js"
+  ]
+}
